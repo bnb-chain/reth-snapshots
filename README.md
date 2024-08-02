@@ -6,8 +6,8 @@ This repository provides snapshot files for the [Reth](https://github.com/bnb-ch
 
 | Network           | Type           | Frequency | Size (Compressed) | Size (Extracted) | Download Link                               | Checksum (SHA256)  |
 |-------------------|----------------|-----------|-------------------|-------------------|-----------------------------------|-------------------|
-| BSC Mainnet       | FullNode       | Monthly   | TBD               | TBD               | [Download}(https://...)    | TBD               |
-| OPBNB Mainnet     | FullNode       | Monthly   | TBD               | TBD               | [Download}(https://...)  | TBD               |
+| BSC Mainnet       | FullNode       | Monthly   | TBD               | TBD               | [Download](https://...)    | TBD               |
+| OPBNB Mainnet     | FullNode       | Monthly   | TBD               | TBD               | [Download](https://...)  | TBD               |
 
 **Note:**
 
