@@ -21,7 +21,7 @@ tar -I lz4 -xvf bsc-reth.tar.lz4 -C ${PATH_TO_RETH_DATA}
 ```bash
 bsc-reth node \
     --datadir=${PATH_TO_RETH_DATA}/server-reth \
-    --chain=${network} \
+    --chain=bsc \
     --http \
     --http.api="eth, net, txpool, web3, rpc" \
     --full
