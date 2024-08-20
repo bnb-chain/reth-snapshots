@@ -4,14 +4,14 @@ This repository provides snapshot files for the [Reth](https://github.com/bnb-ch
 
 ## Available Snapshots
 
-| Network           | Type           | Frequency | Size (Compressed) | Size (Extracted) | Download Link                               | Checksum (SHA256)  |
+| Network           | Type           | Frequency | Size (Compressed) | Size (Extracted) | Download Link                               | MD5  |
 |-------------------|----------------|-----------|-------------------|-------------------|-----------------------------------|-------------------|
-| BSC Mainnet       | FullNode       | Monthly   | TBD               | TBD               | [Download](https://...)    | TBD               |
+| BSC Mainnet       | FullNode       | Monthly   | 2.7TB               | 4.1TB               | [Download](https://pub-c0627345c16f47ab858c9469133073a8.r2.dev/reth-20240819.tar.lz4)    | bbb325df85ed4cb9ee4c65c4102fc12d               |
 | OPBNB Mainnet     | FullNode       | Monthly   | TBD               | TBD               | [Download](https://...)  | TBD               |
 
 **Note:**
 
-* `<date>` will be replaced with the snapshot creation date (e.g., `2024-08-01`).
+* `<date>` will be replaced with the snapshot creation date (e.g., `20240819`).
 * Checksums will be provided to verify the integrity of the downloaded files.
 
 ## Instructions
