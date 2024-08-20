@@ -4,15 +4,16 @@ This repository provides snapshot files for the [Reth](https://github.com/bnb-ch
 
 ## Available Snapshots
 
-| Network           | Type           | Frequency | Size (Compressed) | Size (Extracted) | Download Link                               | MD5  |
-|-------------------|----------------|-----------|-------------------|-------------------|-----------------------------------|-------------------|
-| BSC Mainnet       | FullNode       | Monthly   | 2.7TB               | 4.1TB               | [Download](https://pub-c0627345c16f47ab858c9469133073a8.r2.dev/reth-20240819.tar.lz4)    | bbb325df85ed4cb9ee4c65c4102fc12d               |
-| OPBNB Mainnet     | FullNode       | Monthly   | TBD               | TBD               | [Download](https://...)  | TBD               |
+| Network           | Type           | Frequency | Size (Compressed) | Download Link                               | MD5  |
+|-------------------|----------------|-----------|-------------------|-------------------|-----------------------------------|
+| BSC Mainnet       | FullNode       | Monthly   | 2.7TB             | [Download](https://pub-c0627345c16f47ab858c9469133073a8.r2.dev/reth-20240819.tar.lz4)    | bbb325df85ed4cb9ee4c65c4102fc12d               |
+| OPBNB Mainnet     | FullNode       | Monthly   | TBD               | [Download](https://...)  | TBD               |
 
-**Note:**
+## Usage
 
-* `<date>` will be replaced with the snapshot creation date (e.g., `20240819`).
-* Checksums will be provided to verify the integrity of the downloaded files.
+### 1. BSC Mainnet Fullnode
+
+For detailed instructions on using the BSC Mainnet FullNode snapshot, refer to the [documentation](./guild/bsc-reth-fullnode-snapshot.md).
 
 ## Instructions
 
