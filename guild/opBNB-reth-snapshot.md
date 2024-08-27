@@ -14,7 +14,7 @@ You have two options to download and extract the snapshot data.
 wget ${DOWNLOAD_LINK} -O opBNB-reth.tar.gz
 ```
 
-2. **Verify the file's integrity using md5sum:**
+2. **Verify the file's integrity using sha256sum:**
 
 ```bash
 sha256sum opBNB-reth.tar.gz
