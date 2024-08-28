@@ -23,7 +23,7 @@ For detailed instructions on using the opBNB Mainnet FullNode/ArchiveNode snapsh
 ## Instructions
 
 1. **Download:** Choose the desired snapshot from the table above and download the compressed file.
-2. **Verify:** Use the provided MD5 checksum to ensure the file downloaded correctly.
+2. **Verify:** Use the provided checksum to ensure the file downloaded correctly.
 3. **Extract:** Unzip the downloaded file to your Reth node's data directory.
 4. **Start Node:** Configure your Reth node to use the extracted snapshot data.
 
