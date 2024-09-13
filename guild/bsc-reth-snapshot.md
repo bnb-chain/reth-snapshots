@@ -38,6 +38,8 @@ wget ${DOWNLOAD_LINK} -O- | tar -I lz4 -xvf - -C ${PATH_TO_RETH_DATA}
 
 After the data has been extracted, you can start your BSC Reth node with the following command:
 
+### FullNode
+
 ```bash
 bsc-reth node \
     --datadir=${PATH_TO_RETH_DATA}/server-reth \
@@ -45,4 +47,14 @@ bsc-reth node \
     --http \
     --http.api="eth, net, txpool, web3, rpc" \
     --full
+```
+
+### ArchiveNode
+
+```bash
+bsc-reth node \
+    --datadir=${PATH_TO_RETH_DATA}/server-reth \
+    --chain=bsc \
+    --http \
+    --http.api="eth, net, txpool, web3, rpc"
 ```
