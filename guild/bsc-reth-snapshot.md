@@ -56,5 +56,5 @@ bsc-reth node \
     --datadir=${PATH_TO_RETH_DATA}/server-reth \
     --chain=bsc \
     --http \
-    --http.api="eth, net, txpool, web3, rpc" \
+    --http.api="eth, net, txpool, web3, rpc"
 ```
