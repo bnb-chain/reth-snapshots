@@ -8,7 +8,7 @@ This repository provides snapshot files for the [Reth](https://github.com/bnb-ch
 |---------------|-------------|-----------|-------------------|---------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | BSC Mainnet   | FullNode    | Monthly   | 2.7TB             | 3.81TB              | [Download](https://pub-c0627345c16f47ab858c9469133073a8.r2.dev/reth-20240819.tar.lz4)             | bbb325df85ed4cb9ee4c65c4102fc12d(MD5)                                    |
 | BSC Mainnet   | ArchiveNode | Monthly   | 5.1TB             | 6.9TB               | [Download](https://pub-c0627345c16f47ab858c9469133073a8.r2.dev/bsc-reth-archive-20240910.tar.lz4) | pending                                                                  |
-| OPBNB Mainnet | FullNode    | Monthly   | 410GB             | 789GB               | [Download](https://opbnb-snapshot-mainnet.bnbchain.org/geth-reth-full-20240822.tar.gz)            | 747e167cc129e8a158fe3cb227b059645e63dd63c8997773f3e835fce4711b6d(SHA256) |
+| OPBNB Mainnet | FullNode    | Monthly   | 410GB             | 789GB               | [Download](https://opbnb-snapshot-mainnet.bnbchain.org/geth-reth-full-20241008.tar.gz)            | 945720671d518dde84dd0027671fa398c78a8ed7ea12cb91d9e2fdc0cec7b1a8(SHA256) |
 | OPBNB Mainnet | ArchiveNode | Monthly   | 617GB             | 1.16TB              | [Download](https://opbnb-snapshot-mainnet.bnbchain.org/geth-reth-archive-20240822.tar.gz)         | 4683e637eb0bf566d9513cb9521118a15ae3d5013faa604c4144b561abfa9aba(SHA256) |
 
 ## Usage
