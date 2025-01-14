@@ -11,7 +11,7 @@ You have two options to download and extract the snapshot data.
 1. **Download the snapshot file:**
 
 ```bash
-wget ${DOWNLOAD_LINK} -O bsc-reth.tar.lz4
+aria2c -s4 -x4 -k1024M ${DOWNLOAD_LINK} -o bsc-reth.tar.lz4
 ```
 
 2. **Verify the file's integrity using md5sum:**
